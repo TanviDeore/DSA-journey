@@ -1,4 +1,5 @@
 # DSA-journey
 Starting at 10/19 - 
 1) two sums - leetcode
-2) palindrome - leetcode 
+2) palindrome - leetcode
+3) Roman to Number - leetcode 28 
