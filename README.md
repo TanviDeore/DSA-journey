@@ -6,3 +6,4 @@ Starting at 10/19 -
 4) find index of first occurrence in a string - leetcode 28
 5) Length of Last Word - leetcode 58
 6) Excel sheet Column title - leetcode 168
+7) Excel sheet column number -  leetcode 171
