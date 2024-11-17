@@ -8,4 +8,5 @@ Starting at 10/19 -
 6) Excel sheet Column title - leetcode 168
 7) Excel sheet column number -  leetcode 171
 8) Isomorphic Strings - leetcode 205
+9) Single number - leetcode 136
 
