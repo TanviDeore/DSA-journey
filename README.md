@@ -9,4 +9,5 @@
 8) Isomorphic Strings - leetcode 205
 9) Single number - leetcode 136
 10) Anagram - leetcode 242
+11) Add Digits - leetcode 248
 
