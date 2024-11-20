@@ -10,4 +10,5 @@
 9) Single number - leetcode 136
 10) Anagram - leetcode 242
 11) Add Digits - leetcode 248
+12) =Remove Duplicates from Sorted Array - leetcode 26
 
