@@ -12,5 +12,5 @@
 11) Add Digits - leetcode 248
 12) Remove Duplicates from Sorted Array - leetcode 26
 13) Remove Element - leetcode 27
-14) Remove Duplicates from Sorted Array - leetcode 26
+14) Search Insert Position - leetcode 35
 
