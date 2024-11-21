@@ -15,5 +15,6 @@
 14) Search Insert Position - leetcode 35
 15) Merge Sorted Array - leetCode 88
 16) Best Time to Buy and Sell Stock - leetCode 121
+17) Majority Element - leetCode 169
  
 
