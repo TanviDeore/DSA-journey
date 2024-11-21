@@ -14,5 +14,6 @@
 13) Remove Element - leetcode 27
 14) Search Insert Position - leetcode 35
 15) Merge Sorted Array - leetCode 88
+16) Best Time to Buy and Sell Stock - leetCode 121
  
 
