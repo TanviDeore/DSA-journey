@@ -17,5 +17,6 @@
 16) Best Time to Buy and Sell Stock - leetCode 121
 17) Majority Element - leetCode 169
 18) Ransom Note - leetCode 383 (~567. Permutation in String) (~387. First Unique Character in a String)
+19) Word Pattern - leeetCode 290
  
 
