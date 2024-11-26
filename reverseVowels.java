@@ -1,6 +1,5 @@
 class Solution {
     public char[] swap(int i, int j, char[] c) {
-        //char[] c = st.toCharArray();
         char t = c[i];
         c[i] = c[j];
         c[j] = t;
