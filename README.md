@@ -18,12 +18,12 @@
 17) Majority Element - leetCode 169
 18) Ransom Note - leetCode 383 (~567. Permutation in String) (~387. First Unique Character in a String)
 19) Word Pattern - leeetCode 290
-20) Two Sum II - Input Array Is Sorted - leetCode 167 (~345. Reverse Vowels of a String)
+20) Two Sum II - Input Array Is Sorted - leetCode 167 (~345. Reverse Vowels of a String) (~Is Subsequence - leetCode 392 (two pointer))
 21) Contains Duplicate II - leetCode 219(Map *)
     Only Arrays 
 23) Summary Ranges - leetCode 228
 24) findClosestNumber - leetCode 2239
 25) Merge Strings Alternately - leetCode 1768
-26) Is Subsequence - leetCode 392
+
  
 
