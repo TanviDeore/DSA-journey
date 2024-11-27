@@ -20,6 +20,8 @@
 19) Word Pattern - leeetCode 290
 20) Two Sum II - Input Array Is Sorted - leetCode 167 (~345. Reverse Vowels of a String)
 21) Contains Duplicate II - leetCode 219(Map *)
-22) Summary Ranges - leetCode 228
+    Only Arrays 
+23) Summary Ranges - leetCode 228
+24) findClosestNumber - leetCode 2239
  
 
