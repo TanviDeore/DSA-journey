@@ -36,6 +36,7 @@ Two pointer
 3) 4Sum - leetCode 18
 4) 3Sum - leetCode 15
 5) 3Sum Closest - leetCode 16
+6) Number of Subsequences That Satisfy the Given Sum Condition - leetCode 1498 (check again)
 
 
  
