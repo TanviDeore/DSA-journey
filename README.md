@@ -37,6 +37,12 @@ Two pointer
 4) 3Sum - leetCode 15
 5) 3Sum Closest - leetCode 16
 6) Number of Subsequences That Satisfy the Given Sum Condition - leetCode 1498 (check again)
+7)  Two Sum IV - Input is a BST - leetCode 653 (inorder traversal, two pointer)
+8)  Sum of Square Numbers - leetCode 633 (Two pointer) /(fermates thm)
+
+LinkedList easy (slow and fast pointer)
+1) Check if linked list has cycle - leetCode 141
+2) Middle of the linkedlist - leetCode 863
 
 
  
