@@ -11,7 +11,7 @@
 10) Single number - leetcode 136
 11) Anagram - leetcode 242
 12) Add Digits - leetcode 248
-13) Remove Duplicates from Sorted Array - leetcode 26
+13) Remove Duplicates from Sorted Array - leetcode 26 (*)
 14) Remove Element - leetcode 27
 15) Search Insert Position - leetcode 35
 16) Merge Sorted Array - leetCode 88
@@ -27,7 +27,7 @@
 27) Merge Strings Alternately - leetCode 1768
 28) Product of Array Except Self -leetCode 228 *
 29) longest palindrome - leetCode 409
-30) Container With Most Water - leetCode 11 (Need to optimize)
+
 31) Sliding + two pointer --> Longest Substring Without Repeating Characters leetCode 3
 
 Two pointer
@@ -39,10 +39,12 @@ Two pointer
 6) Number of Subsequences That Satisfy the Given Sum Condition - leetCode 1498 (check again)
 7)  Two Sum IV - Input is a BST - leetCode 653 (inorder traversal, two pointer)
 8)  Sum of Square Numbers - leetCode 633 (Two pointer) /(fermates thm)
+9)  Container With Most Water - leetCode 11
 
 LinkedList easy (slow and fast pointer)
 1) Check if linked list has cycle - leetCode 141
 2) Middle of the linkedlist - leetCode 863
+3)  Remove Duplicates from Sorted Array II - leetCode 80 *
 
 
  
