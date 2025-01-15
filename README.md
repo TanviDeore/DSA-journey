@@ -40,6 +40,7 @@ Two pointer
 7)  Two Sum IV - Input is a BST - leetCode 653 (inorder traversal, two pointer)
 8)  Sum of Square Numbers - leetCode 633 (Two pointer) /(fermates thm)
 9)  Container With Most Water - leetCode 11
+10)  Rotate List - LinkedList - leetCode 61
 
 LinkedList easy (slow and fast pointer)
 1) Check if linked list has cycle - leetCode 141
