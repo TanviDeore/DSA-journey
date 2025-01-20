@@ -52,7 +52,8 @@ Stack
 2) Remove Outermost Parentheses --> leetCode 1021 (not used stack) revisit again
 
 Monotonic stack
-1) Final prices with special discount --> leetCode 1475 
+1) Final prices with special discount --> leetCode 1475
+2) Next Greater Element II --> leetCode 503 (when dealing with cycle/ cyclic array (find new index by using %))
 
 
  
