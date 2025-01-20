@@ -51,9 +51,10 @@ Stack
 1) Valid parenthesis --> leetCode 20 (used stack) 
 2) Remove Outermost Parentheses --> leetCode 1021 (not used stack) revisit again
 
-Monotonic stack
+Monotonic stack (Try solving using Queues)
 1) Final prices with special discount --> leetCode 1475
 2) Next Greater Element II --> leetCode 503 (when dealing with cycle/ cyclic array (find new index by using %))
+3) Daily Temperatures --> leetCode 739
 
 
  
