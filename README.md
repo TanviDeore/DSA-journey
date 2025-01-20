@@ -47,6 +47,13 @@ LinkedList easy (slow and fast pointer)
 2) Middle of the linkedlist - leetCode 863
 3)  Remove Duplicates from Sorted Array II - leetCode 80 *
 
+Stack 
+1) Valid parenthesis --> leetCode 20 (used stack) 
+2) Remove Outermost Parentheses --> leetCode 1021 (not used stack) revisit again
+
+Monotonic stack
+1) Final prices with special discount --> leetCode 1475 
+
 
  
 
