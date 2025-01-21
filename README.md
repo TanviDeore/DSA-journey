@@ -49,12 +49,13 @@ LinkedList easy (slow and fast pointer)
 
 Stack 
 1) Valid parenthesis --> leetCode 20 (used stack) 
-2) Remove Outermost Parentheses --> leetCode 1021 (not used stack) revisit again
+2) Remove Outermost Parentheses --> leetCode 1021 (not used stack) revisit again (balance)
 
 Monotonic stack (Try solving using Queues)
 1) Final prices with special discount --> leetCode 1475
 2) Next Greater Element II --> leetCode 503 (when dealing with cycle/ cyclic array (find new index by using %))
 3) Daily Temperatures --> leetCode 739
+4) 132 Pattern --> leetCode 456 (*) revisit again
 
 
  
