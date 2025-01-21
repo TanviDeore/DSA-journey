@@ -41,6 +41,7 @@ Two pointer
 8)  Sum of Square Numbers - leetCode 633 (Two pointer) /(fermates thm)
 9)  Container With Most Water - leetCode 11
 10)  Rotate List - LinkedList - leetCode 61
+11)  Sort color - leetCode 75 (2 pointers + 1 extra pointer for traversing the array) *
 
 LinkedList easy (slow and fast pointer)
 1) Check if linked list has cycle - leetCode 141
