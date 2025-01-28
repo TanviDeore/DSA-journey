@@ -48,6 +48,9 @@ LinkedList easy (slow and fast pointer)
 2) Middle of the linkedlist - leetCode 863
 3)  Remove Duplicates from Sorted Array II - leetCode 80 *
 
+Two pointer
+Intersection of two linked list - leetCode 160 (check again)
+
 Stack 
 1) Valid parenthesis --> leetCode 20 (used stack) 
 2) Remove Outermost Parentheses --> leetCode 1021 (not used stack) revisit again (balance)
