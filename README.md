@@ -42,14 +42,15 @@ Two pointer
 9)  Container With Most Water - leetCode 11
 10)  Rotate List - LinkedList - leetCode 61
 11)  Sort color - leetCode 75 (2 pointers + 1 extra pointer for traversing the array) *
+12)  Intersection of two linked list - leetCode 160 (check again)
+
+Sliding Window 
+Substrings of Size Three with Distinct Characters - leetCode 1876
 
 LinkedList easy (slow and fast pointer)
 1) Check if linked list has cycle - leetCode 141
 2) Middle of the linkedlist - leetCode 863
 3)  Remove Duplicates from Sorted Array II - leetCode 80 *
-
-Two pointer
-Intersection of two linked list - leetCode 160 (check again)
 
 Stack 
 1) Valid parenthesis --> leetCode 20 (used stack) 
