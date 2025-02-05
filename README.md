@@ -56,8 +56,9 @@ LinkedList easy (slow and fast pointer)
 
 Stack 
 1) Valid parenthesis --> leetCode 20 (used stack) 
-2) Remove Outermost Parentheses --> leetCode 1021 (not used stack) revisit again (balance)
+2) Remove Outermost Parentheses --> leetCode 1021 -->revisit again (balance)
 3) Next Greater Element III --> Leetcode 556 == Next Permutation --> LeetCode 31 (same) *
+4) Online Stock Span --> leetCode 901 (Stack(int[]))
 
 Monotonic stack (Try solving using Queues)
 1) Final prices with special discount --> leetCode 1475
