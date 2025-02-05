@@ -45,7 +45,9 @@ Two pointer
 12)  Intersection of two linked list - leetCode 160 (check again)
 
 Sliding Window 
-Substrings of Size Three with Distinct Characters - leetCode 1876
+1) Substrings of Size Three with Distinct Characters - leetCode 1876
+2) Maximum number of occurances of a SubString --> LeetCode 1297
+
 
 LinkedList easy (slow and fast pointer)
 1) Check if linked list has cycle - leetCode 141
@@ -55,6 +57,7 @@ LinkedList easy (slow and fast pointer)
 Stack 
 1) Valid parenthesis --> leetCode 20 (used stack) 
 2) Remove Outermost Parentheses --> leetCode 1021 (not used stack) revisit again (balance)
+3) Next Greater Element III --> Leetcode 556 == Next Permutation --> LeetCode 31 (same) *
 
 Monotonic stack (Try solving using Queues)
 1) Final prices with special discount --> leetCode 1475
