@@ -65,6 +65,8 @@ Monotonic stack (Try solving using Queues)
 2) Next Greater Element II --> leetCode 503 (when dealing with cycle/ cyclic array (find new index by using %))
 3) Daily Temperatures --> leetCode 739
 4) 132 Pattern --> leetCode 456 (*) revisit again
+5) Trapping Rain Water --> leetCode 42
+6) Largest Rectangle in Histogram --> leetCode 84
 
 
  
