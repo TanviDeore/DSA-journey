@@ -34,6 +34,10 @@ Array, Hash, count
 1) Count Number of Bad Pairs - leetcode 2364, Count Nice Pairs in an Array - leetcode 1814, Subarray Sums Divisible by K - leetcode 974 (Uses prefixSum array)
 Create hashmap (getOrDefault*)
 
+Prefix/ Sufix arrays
+Make Array Elements Equal to Zero - leetcode 3354 (Revist again)
+Subarray Sums Divisible by K - leetcode 974
+
 Two pointer
 1) Two Sum II - Input Array Is Sorted - leetCode 167
 2) (~345. Reverse Vowels of a String) (~Is Subsequence - leetCode 392 (two pointer))
