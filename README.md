@@ -38,7 +38,7 @@ Prefix/ Sufix arrays
 Make Array Elements Equal to Zero - leetcode 3354 (Revist again)
 Subarray Sums Divisible by K - leetcode 974
 Grid Game - leetcode 2017
-Minimum Size Subarray Sum - leetCode 209 (map updated evry visited)
+Minimum Size Subarray Sum - leetCode 209 (map updated evry visited) (Sliding window - optimal)
 Indexes of Subarray Sum -- geeksForgeeks
 Longest Subarray with Sum K --geetksForgeeks (map updated only once, at first occurance)
 
