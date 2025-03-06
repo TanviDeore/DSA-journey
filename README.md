@@ -35,12 +35,14 @@ Array, Hash, count
 Create hashmap (getOrDefault*)
 
 Prefix/ Sufix arrays
-Make Array Elements Equal to Zero - leetcode 3354 (Revist again)
-Subarray Sums Divisible by K - leetcode 974
-Grid Game - leetcode 2017
-Minimum Size Subarray Sum - leetCode 209 (map updated evry visited) (Sliding window - optimal)
-Indexes of Subarray Sum -- geeksForgeeks
-Longest Subarray with Sum K --geetksForgeeks (map updated only once, at first occurance)
+1) Make Array Elements Equal to Zero - leetcode 3354 (Revist again)
+2) Subarray Sums Divisible by K - leetcode 974, Longest subarray with sum divisible by K - geeksForgeeks
+3) Grid Game - leetcode 2017
+4) Minimum Size Subarray Sum - leetCode 209 (map updated evry visited) (Sliding window - optimal)
+5) Indexes of Subarray Sum -- geeksForgeeks
+6) Longest Subarray with Sum K --geetksForgeeks (map updated only once, at first occurance)
+
+
 
 
 Two pointer
