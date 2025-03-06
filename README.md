@@ -36,11 +36,13 @@ Create hashmap (getOrDefault*)
 
 Prefix/ Sufix arrays
 1) Make Array Elements Equal to Zero - leetcode 3354 (Revist again)
-2) Subarray Sums Divisible by K - leetcode 974, Longest subarray with sum divisible by K - geeksForgeeks
-3) Grid Game - leetcode 2017
-4) Minimum Size Subarray Sum - leetCode 209 (map updated evry visited) (Sliding window - optimal)
-5) Indexes of Subarray Sum -- geeksForgeeks
-6) Longest Subarray with Sum K --geetksForgeeks (map updated only once, at first occurance)
+2) Grid Game - leetcode 2017
+3) Minimum Size Subarray Sum - leetCode 209 (map updated evry visited) (Sliding window - optimal)
+4) Indexes of Subarray Sum -- geeksForgeeks
+5) Longest Subarray with Sum K --geetksForgeeks (map updated only once, at first occurance)
+   When count is needed, update count in map instead of index
+6) Subarray Sums Divisible by K - leetcode 974, Longest subarray with sum divisible by K - geeksForgeeks
+7) Subarray Sum Equals K - leetcode -560, Subarrays with equal 1s and 0s - gfg (k=0, update 0 with -1), Binary Subarrays With Sum - leetcode 930
 
 
 
@@ -62,6 +64,7 @@ Two pointer
 Sliding Window 
 1) Substrings of Size Three with Distinct Characters - leetCode 1876
 2) Maximum number of occurances of a SubString --> LeetCode 1297
+3) **930. Binary Subarrays With Sum** try using sliding window
 
 
 LinkedList easy (slow and fast pointer)
