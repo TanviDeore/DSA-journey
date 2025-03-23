@@ -44,6 +44,11 @@ Prefix/ Sufix arrays
 6) Subarray Sums Divisible by K - leetcode 974, Longest subarray with sum divisible by K - geeksForgeeks
 7) Subarray Sum Equals K - leetcode -560, Subarrays with equal 1s and 0s - gfg (k=0, update 0 with -1), Binary Subarrays With Sum - leetcode 930
 
+
+Kadanes' Algo 
+1) Maximum Subarray Sum With Length Divisible by K (3382 leetcode), Kadane's algo (whatever is the filter-condition put it in map)
+2) Maximum Subarray - no variation - LeetCode 53
+
 Prefix + difference array
 1) Zero Array Transformation I - leetCode - 3355
 
