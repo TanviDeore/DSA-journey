@@ -68,6 +68,8 @@ Two pointer
 10)  Rotate List - LinkedList - leetCode 61
 11)  Sort color - leetCode 75 (2 pointers + 1 extra pointer for traversing the array) *
 12)  Intersection of two linked list - leetCode 160 (check again)
+13)  Best Time to Buy and Sell Stock II - leetCode 122
+14)  Best Time to Buy and Sell Stock - leetCode 121
 
 Sliding Window 
 1) Substrings of Size Three with Distinct Characters - leetCode 1876
