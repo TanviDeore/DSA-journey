@@ -46,7 +46,7 @@ Prefix/ Sufix arrays
 
 
 Kadanes' Algo 
-1) Maximum Subarray Sum With Length Divisible by K (3382 leetcode), Kadane's algo (whatever is the filter-condition put it in map)
+1) Maximum Subarray Sum With Length Divisible by K (3381 leetcode), Kadane's algo (whatever is the filter-condition put it in map)
 2) Maximum Subarray - no variation - LeetCode 53
 
 Prefix + difference array
