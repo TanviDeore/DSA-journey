@@ -82,6 +82,16 @@ LinkedList easy (slow and fast pointer)
 2) Middle of the linkedlist - leetCode 863
 3)  Remove Duplicates from Sorted Array II - leetCode 80 *
 
+Queue
+1) Queue using stack (2) (poll is simple)
+2) Stack using queues (2) (poll isn simple)
+
+Dequeue
+1) Maximum slinding window gfg, leetcode
+2) Kth negative or something (check)
+
+Priority Queue
+1) Find kth largest/ smallest element
 Stack 
 1) Valid parenthesis --> leetCode 20 (used stack) 
 2) Remove Outermost Parentheses --> leetCode 1021 -->revisit again (balance)
